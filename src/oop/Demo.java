@@ -1,5 +1,7 @@
 package oop;
 
+import javax.swing.plaf.synth.SynthSeparatorUI;
+
 public class Demo {
 	
 	public static void main(String[] args) {
@@ -13,6 +15,7 @@ public class Demo {
 		// Action, activity, behaviour
 		
 		System.out.println(name + " is walking.");
+		System.out.println("Uvar obed");
 		
 	}
 	
