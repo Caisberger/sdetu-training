@@ -1,7 +1,5 @@
 package oop;
 
-import javax.swing.plaf.synth.SynthSeparatorUI;
-
 public class Demo {
 	
 	public static void main(String[] args) {
